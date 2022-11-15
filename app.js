@@ -1,9 +1,9 @@
 const app = Vue.createApp({
-    data() {       // data function must return an object
+    data() {       
         return {
-            name: 'Sadie Wilson'   // initial value
+            
         }
     }
 })
 
-app.mount('#template')   // mount in div id=template
+app.mount('#main')   // mount in div id=template

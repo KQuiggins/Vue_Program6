@@ -1,0 +1,443 @@
+[
+    {
+        "actual_speed": 95,
+        "age": 20,
+        "posted_speed": 70,
+        "stop_date": "7/4/2014",
+        "stop_time": "0:11:00",
+        "tid": 20124,
+        "violator_sex": "Female"
+    },
+    {
+        "actual_speed": 95,
+        "age": 25,
+        "posted_speed": 70,
+        "stop_date": "7/4/2014",
+        "stop_time": "0:36:00",
+        "tid": 20125,
+        "violator_sex": "Male"
+    },
+    {
+        "actual_speed": 76,
+        "age": 25,
+        "posted_speed": 55,
+        "stop_date": "7/4/2014",
+        "stop_time": "1:02:00",
+        "tid": 20126,
+        "violator_sex": "Male"
+    },
+    {
+        "actual_speed": 77,
+        "age": 27,
+        "posted_speed": 60,
+        "stop_date": "7/4/2014",
+        "stop_time": "1:02:00",
+        "tid": 20127,
+        "violator_sex": "Male"
+    },
+    {
+        "actual_speed": 83,
+        "age": 51,
+        "posted_speed": 70,
+        "stop_date": "7/4/2014",
+        "stop_time": "1:15:00",
+        "tid": 20128,
+        "violator_sex": "Female"
+    },
+    {
+        "actual_speed": 88,
+        "age": 25,
+        "posted_speed": 55,
+        "stop_date": "7/4/2014",
+        "stop_time": "1:28:00",
+        "tid": 20129,
+        "violator_sex": "Male"
+    },
+    {
+        "actual_speed": 97,
+        "age": 29,
+        "posted_speed": 70,
+        "stop_date": "7/4/2014",
+        "stop_time": "1:33:00",
+        "tid": 20130,
+        "violator_sex": "Male"
+    },
+    {
+        "actual_speed": 74,
+        "age": 35,
+        "posted_speed": 30,
+        "stop_date": "7/4/2014",
+        "stop_time": "1:52:00",
+        "tid": 20131,
+        "violator_sex": "Male"
+    },
+    {
+        "actual_speed": 66,
+        "age": 19,
+        "posted_speed": 55,
+        "stop_date": "7/4/2014",
+        "stop_time": "3:42:00",
+        "tid": 20132,
+        "violator_sex": "Male"
+    },
+    {
+        "actual_speed": 50,
+        "age": 25,
+        "posted_speed": 40,
+        "stop_date": "7/4/2014",
+        "stop_time": "3:51:00",
+        "tid": 20133,
+        "violator_sex": "Male"
+    },
+    {
+        "actual_speed": 87,
+        "age": 45,
+        "posted_speed": 65,
+        "stop_date": "7/4/2014",
+        "stop_time": "6:23:00",
+        "tid": 20134,
+        "violator_sex": "Male"
+    },
+    {
+        "actual_speed": 85,
+        "age": 32,
+        "posted_speed": 70,
+        "stop_date": "7/4/2014",
+        "stop_time": "6:27:00",
+        "tid": 20135,
+        "violator_sex": "Female"
+    },
+    {
+        "actual_speed": 93,
+        "age": 35,
+        "posted_speed": 70,
+        "stop_date": "7/4/2014",
+        "stop_time": "6:39:00",
+        "tid": 20136,
+        "violator_sex": "Male"
+    },
+    {
+        "actual_speed": 72,
+        "age": 46,
+        "posted_speed": 60,
+        "stop_date": "7/4/2014",
+        "stop_time": "6:43:00",
+        "tid": 20137,
+        "violator_sex": "Male"
+    },
+    {
+        "actual_speed": 68,
+        "age": 49,
+        "posted_speed": 55,
+        "stop_date": "7/4/2014",
+        "stop_time": "6:45:00",
+        "tid": 20138,
+        "violator_sex": "Female"
+    },
+    {
+        "actual_speed": 88,
+        "age": 31,
+        "posted_speed": 70,
+        "stop_date": "7/4/2014",
+        "stop_time": "6:49:00",
+        "tid": 20139,
+        "violator_sex": "Female"
+    },
+    {
+        "actual_speed": 72,
+        "age": 60,
+        "posted_speed": 55,
+        "stop_date": "7/4/2014",
+        "stop_time": "7:00:00",
+        "tid": 20140,
+        "violator_sex": "Male"
+    },
+    {
+        "actual_speed": 75,
+        "age": 24,
+        "posted_speed": 55,
+        "stop_date": "7/4/2014",
+        "stop_time": "7:06:00",
+        "tid": 20141,
+        "violator_sex": "Male"
+    },
+    {
+        "actual_speed": 72,
+        "age": 35,
+        "posted_speed": 60,
+        "stop_date": "7/4/2014",
+        "stop_time": "7:12:00",
+        "tid": 20142,
+        "violator_sex": "Male"
+    },
+    {
+        "actual_speed": 86,
+        "age": 17,
+        "posted_speed": 60,
+        "stop_date": "7/4/2014",
+        "stop_time": "7:15:00",
+        "tid": 20143,
+        "violator_sex": "Male"
+    },
+    {
+        "actual_speed": 74,
+        "age": 20,
+        "posted_speed": 55,
+        "stop_date": "7/4/2014",
+        "stop_time": "7:19:00",
+        "tid": 20144,
+        "violator_sex": "Male"
+    },
+    {
+        "actual_speed": 70,
+        "age": 32,
+        "posted_speed": 55,
+        "stop_date": "7/4/2014",
+        "stop_time": "7:29:00",
+        "tid": 20145,
+        "violator_sex": "Male"
+    },
+    {
+        "actual_speed": 82,
+        "age": 46,
+        "posted_speed": 60,
+        "stop_date": "7/4/2014",
+        "stop_time": "7:33:00",
+        "tid": 20146,
+        "violator_sex": "Female"
+    },
+    {
+        "actual_speed": 67,
+        "age": 29,
+        "posted_speed": 55,
+        "stop_date": "7/4/2014",
+        "stop_time": "7:35:00",
+        "tid": 20147,
+        "violator_sex": "Male"
+    },
+    {
+        "actual_speed": 62,
+        "age": 39,
+        "posted_speed": 50,
+        "stop_date": "7/4/2014",
+        "stop_time": "7:49:00",
+        "tid": 20148,
+        "violator_sex": "Male"
+    },
+    {
+        "actual_speed": 84,
+        "age": 35,
+        "posted_speed": 65,
+        "stop_date": "7/4/2014",
+        "stop_time": "7:51:00",
+        "tid": 20149,
+        "violator_sex": "Female"
+    },
+    {
+        "actual_speed": 67,
+        "age": 60,
+        "posted_speed": 55,
+        "stop_date": "7/4/2014",
+        "stop_time": "7:53:00",
+        "tid": 20150,
+        "violator_sex": "Female"
+    },
+    {
+        "actual_speed": 96,
+        "age": 21,
+        "posted_speed": 70,
+        "stop_date": "7/4/2014",
+        "stop_time": "8:00:00",
+        "tid": 20151,
+        "violator_sex": "Male"
+    },
+    {
+        "actual_speed": 82,
+        "age": 27,
+        "posted_speed": 60,
+        "stop_date": "7/4/2014",
+        "stop_time": "8:02:00",
+        "tid": 20152,
+        "violator_sex": "Female"
+    },
+    {
+        "actual_speed": 67,
+        "age": 68,
+        "posted_speed": 55,
+        "stop_date": "7/4/2014",
+        "stop_time": "8:12:00",
+        "tid": 20153,
+        "violator_sex": "Male"
+    },
+    {
+        "actual_speed": 81,
+        "age": 51,
+        "posted_speed": 60,
+        "stop_date": "7/4/2014",
+        "stop_time": "8:17:00",
+        "tid": 20154,
+        "violator_sex": "Male"
+    },
+    {
+        "actual_speed": 70,
+        "age": 22,
+        "posted_speed": 50,
+        "stop_date": "7/4/2014",
+        "stop_time": "8:22:00",
+        "tid": 20155,
+        "violator_sex": "Male"
+    },
+    {
+        "actual_speed": 66,
+        "age": 49,
+        "posted_speed": 55,
+        "stop_date": "7/4/2014",
+        "stop_time": "8:23:00",
+        "tid": 20156,
+        "violator_sex": "Male"
+    },
+    {
+        "actual_speed": 66,
+        "age": 23,
+        "posted_speed": 55,
+        "stop_date": "7/4/2014",
+        "stop_time": "8:34:00",
+        "tid": 20157,
+        "violator_sex": "Female"
+    },
+    {
+        "actual_speed": 67,
+        "age": 28,
+        "posted_speed": 55,
+        "stop_date": "7/4/2014",
+        "stop_time": "8:38:00",
+        "tid": 20158,
+        "violator_sex": "Male"
+    },
+    {
+        "actual_speed": 67,
+        "age": 79,
+        "posted_speed": 55,
+        "stop_date": "7/4/2014",
+        "stop_time": "8:40:00",
+        "tid": 20159,
+        "violator_sex": "Female"
+    },
+    {
+        "actual_speed": 66,
+        "age": 57,
+        "posted_speed": 55,
+        "stop_date": "7/4/2014",
+        "stop_time": "8:45:00",
+        "tid": 20160,
+        "violator_sex": "Male"
+    },
+    {
+        "actual_speed": 77,
+        "age": 39,
+        "posted_speed": 65,
+        "stop_date": "7/4/2014",
+        "stop_time": "8:52:00",
+        "tid": 20161,
+        "violator_sex": "Male"
+    },
+    {
+        "actual_speed": 67,
+        "age": 49,
+        "posted_speed": 60,
+        "stop_date": "7/4/2014",
+        "stop_time": "8:56:00",
+        "tid": 20162,
+        "violator_sex": "Male"
+    },
+    {
+        "actual_speed": 67,
+        "age": 30,
+        "posted_speed": 55,
+        "stop_date": "7/4/2014",
+        "stop_time": "8:57:00",
+        "tid": 20163,
+        "violator_sex": "Male"
+    },
+    {
+        "actual_speed": 76,
+        "age": 49,
+        "posted_speed": 55,
+        "stop_date": "7/4/2014",
+        "stop_time": "9:01:00",
+        "tid": 20164,
+        "violator_sex": "Male"
+    },
+    {
+        "actual_speed": 85,
+        "age": 26,
+        "posted_speed": 60,
+        "stop_date": "7/4/2014",
+        "stop_time": "9:03:00",
+        "tid": 20165,
+        "violator_sex": "Female"
+    },
+    {
+        "actual_speed": 83,
+        "age": 45,
+        "posted_speed": 70,
+        "stop_date": "7/4/2014",
+        "stop_time": "9:07:00",
+        "tid": 20166,
+        "violator_sex": "Male"
+    },
+    {
+        "actual_speed": 86,
+        "age": 24,
+        "posted_speed": 65,
+        "stop_date": "7/4/2014",
+        "stop_time": "9:08:00",
+        "tid": 20167,
+        "violator_sex": "Male"
+    },
+    {
+        "actual_speed": 79,
+        "age": 44,
+        "posted_speed": 55,
+        "stop_date": "7/4/2014",
+        "stop_time": "9:19:00",
+        "tid": 20168,
+        "violator_sex": "Male"
+    },
+    {
+        "actual_speed": 77,
+        "age": 40,
+        "posted_speed": 65,
+        "stop_date": "7/4/2014",
+        "stop_time": "9:21:00",
+        "tid": 20169,
+        "violator_sex": "Female"
+    },
+    {
+        "actual_speed": 67,
+        "age": 55,
+        "posted_speed": 55,
+        "stop_date": "7/4/2014",
+        "stop_time": "9:23:00",
+        "tid": 20170,
+        "violator_sex": "Male"
+    },
+    {
+        "actual_speed": 71,
+        "age": 42,
+        "posted_speed": 55,
+        "stop_date": "7/4/2014",
+        "stop_time": "9:27:00",
+        "tid": 20171,
+        "violator_sex": "Male"
+    },
+    {
+        "actual_speed": 72,
+        "age": 31,
+        "posted_speed": 55,
+        "stop_date": "7/4/2014",
+        "stop_time": "9:27:00",
+        "tid": 20172,
+        "violator_sex": "Male"
+    }
+]
