@@ -19,17 +19,38 @@
     <div class="container" id="main">
         <nav class="navbar navbar-inverse">
             <div class="navbar-header">
-                 <a class="navbar-brand" href="#">Our Website</a>
+                 <img src="Police-Badge.png" alt="police badge">
             </div>
             <div>
                  <ul class="nav navbar-nav">
-                    <li class="active"><a href="index.html">All Tickets</a></li>
-                    <li><a href="25Over.html">25 and Over</a></li>
+                    <li><a href="index.html">All Tickets</a></li>
+                    <li class="active"><a href="25Over.html">25 and Over</a></li>
                  </ul>
            </div>
           </nav>    <!-- end nav-bar -->
+          <h2>Tickets</h2>
+            <table class="table table-bordered table-striped">
+                <tr>
+                    <th>Date</th>
+                    <th>Time</th>
+                    <th>Speed</th>
+                    <th>Posted Speed</th>
+                    <th>MPH</th>
+                    <th>Age</th>
+                    <th>Sex</th>
+                </tr>
+                <tr v-for="ticket in violations">
+                    <td>{{ticket.date}}</td>
+                    <td>{{ticket.time}}</td>
+                    <td>{{ticket.speed}}</td>
+                    <td>{{ticket.posted_speed}}</td>
+                    <td>{{ticket.speed - ticket.posted_speed}}</td>
+                    <td>{{ticket.age}}</td>
+                    <td>{{ticket.sex}}</td>
 
-    </div>
+                </tr>
+            </table>
+        </div>
     <script src="app.js"></script>
 </body>
 </html>
