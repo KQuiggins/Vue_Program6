@@ -32,22 +32,20 @@
           <h2>Tickets</h2>
             <table class="table table-bordered table-striped">
                 <tr>
-                    <th>Date</th>
+                    <th>Ticket ID</th>
                     <th>Time</th>
-                    <th>Speed</th>
                     <th>Posted Speed</th>
-                    <th>MPH</th>
+                    <th>MPH Over</th>
                     <th>Age</th>
                     <th>Sex</th>
                 </tr>
                 <tr v-for="ticket in tickets">
-                    <td>{{ticket.date}}</td>
-                    <td>{{ticket.time}}</td>
-                    <td>{{ticket.speed}}</td>
+                    <td>{{ticket.tid}}</td>
+                    <td>{{ticket.stop_time}}</td>
                     <td>{{ticket.posted_speed}}</td>
-                    <td>{{ticket.speed - ticket.posted_speed}}</td>
+                    <td>{{ticket.actual_speed - ticket.posted_speed}}</td>
                     <td>{{ticket.age}}</td>
-                    <td>{{ticket.sex}}</td>
+                    <td>{{ticket.violator_sex}}</td>
                 </tr>
             </table>
         </div>
