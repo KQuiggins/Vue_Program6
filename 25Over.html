@@ -5,6 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <!-- Latest compiled and minified CSS -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@3.3.7/dist/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
 
     <!-- Optional theme -->
@@ -24,7 +25,7 @@
             <div>
                  <ul class="nav navbar-nav">
                     <li><a href="index.html">All Tickets</a></li>
-                    <li class="active"><a href="25Over.html">25 and Over</a></li>
+                    <li class="active" @click="display()"><a href="25Over.html">25 and Over</a></li>
                  </ul>
            </div>
           </nav>    <!-- end nav-bar -->
@@ -38,7 +39,7 @@
                     <th>Age</th>
                     <th>Sex</th>
                 </tr>
-                <tr v-for="ticket in tickets">
+                <tr v-for="ticket in filtered">
                     <td>{{ticket.tid}}</td>
                     <td>{{ticket.stop_time}}</td>
                     <td>{{ticket.posted_speed}}</td>
