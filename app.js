@@ -4,6 +4,8 @@ const app = Vue.createApp({
             tickets: [],
             
             
+            
+            
         }
     },
     created() {
@@ -14,7 +16,10 @@ const app = Vue.createApp({
             const response = await fetch('tickets1.json');
             this.tickets = await response.json();
             
-        }
+
+            
+        },
+        
     },
 })
 
